@@ -59,6 +59,5 @@ Let's connect and discuss!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awpizcuy&layout=compact&theme=dracula)
 
-Kunjungi [GitHub Readme Stats](https://github.com/awpizcuy/github-readme-stats) untuk opsi lainnya.*
 
 ---
