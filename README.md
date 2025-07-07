@@ -1,25 +1,195 @@
-# Hello! 👋 I'm Hafidz Fadilah Tinardi
-Undergraduate at Telkom University
-About Me
-I am a passionate Fullstack Web Developer focused on web development. I love learning new things and contributing to exciting projects.
+# Halo! 👋 Saya Hafidz Fadilah Tinardi
 
-🔭 I’m currently working on: Building an AI ChatBot project using Ollama version 3.
+# Undergraduate at Telkom University
 
-🌱 I’m currently learning: .NET programming language and Vue.js for frontend development.
+---
 
-💬 Ask me about: JavaScript, web performance optimization, PHP with Laravel framework.
 
-⚡ Fun fact: I enjoy playing guitar, gaming, and reading books.
 
-Technologies and Tools I Use
-Here are some technologies and tools I am proficient in or actively use:
 
-Programming Languages:
-Frameworks & Libraries:
-Databases:
-Tools & Platforms:
-Connect With Me
-Let's connect and discuss!
 
-My GitHub Stats
-(Visit GitHub Readme Stats for more theme and customization options.)
+
+
+### Tentang Saya
+
+
+
+
+
+
+
+Saya adalah seorang Fullstack Web Developer yang bersemangat dalam Pengembangan web. Saya suka belajar hal-hal baru dan berkontribusi pada proyek-proyek yang menarik.
+
+
+
+
+
+
+
+* 🔭 Saat ini saya sedang mengerjakan: [Deskripsi singkat proyek saat ini atau minat belajar Anda, contoh: belajar Machine Learning dengan Python, membangun aplikasi web menggunakan React].
+
+
+
+* 🌱 Saya sedang belajar: Mempelajari Bahasa Pemograman .Net dan frontend Vue.js untuk membuat proyek ChatBot AI dengan menggunakan Ollama versi 3.
+
+
+
+* 💬 Tanya saya tentang: JavaScript, optimasi performa web, PHP dengan framework Laravel.
+
+
+
+* ⚡ Fakta menarik: Saya hobi bermain gitar, bermain game, dan Baca buku.
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+### Teknologi dan Alat yang Saya Gunakan
+
+
+
+
+
+
+
+Berikut adalah beberapa teknologi dan alat yang saya kuasai atau sedang aktif saya gunakan:
+
+
+
+
+
+
+
+**Bahasa Pemrograman:**
+
+
+
+`Python` | `JavaScript` | `Java` | `HTML` | `CSS` | `SQL`
+
+
+
+
+
+
+
+**Framework & Library:**
+
+
+
+`React` | `Node.js` | `Laravel` |
+
+
+
+
+
+
+
+**Database:**
+
+
+
+`PostgreSQL` | `MySQL` | `MongoDB`
+
+
+
+
+
+
+
+**Tools & Platform:**
+
+
+
+`Git` | `GitHub` | `Docker` | `VS Code` | `Jira` | `Figma`
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+### Hubungi Saya
+
+
+
+
+
+
+
+Mari terhubung dan berdiskusi!
+
+
+
+
+
+
+
+* LinkedIn: https://www.linkedin.com/in/hafidzfadilahtinardi/
+
+
+
+* Email: mailto:hafidz.fadilah28@gmail.com
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+### Statistik GitHub Saya
+
+
+
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awpizcuy&show_icons=true&theme=dracula&count_private=true)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awpizcuy&layout=compact&theme=dracula)
+
+
+
+
+
+
+
+Kunjungi [GitHub Readme Stats](https://github.com/awpizcuy/github-readme-stats) untuk opsi lainnya.*
+
+
+
+
+
+
+
+---
